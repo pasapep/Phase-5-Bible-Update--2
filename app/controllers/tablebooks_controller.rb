@@ -1,0 +1,2 @@
+class TablebooksController < ApplicationController
+end
